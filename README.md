@@ -25,8 +25,6 @@ doesn't work on community servers with sv_allowcslua = 0, screengrab and cheat e
 
 Use Garry's mod without Beta-versions. Drop BOT4CheatMenu.lua to Steam\steamapps\common\GarrysMod\garrysmod\lua\autorun\client. And when you connect to server insert command to console lua_openscript_cl autorun/client/BOT4CheatMenu.lua
 
-![20250615205141_1](https://github.com/user-attachments/assets/d0fed89f-be1d-4f7f-aed0-d87d92be22e8)
-
 ![20250619211726_1](https://github.com/user-attachments/assets/d7fcfe78-810b-4367-8d3a-645aa01babf7)
 
 
