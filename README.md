@@ -1,6 +1,8 @@
 # BOT4CheatMenu-Garry-s-mod
 Welcome to my first Github repository, it will be dedicated to my own .lua cheat on Garry's mod. Features:
- 
+
+Aimobt(Auto shoot, Snapline, Fov Circle, predict target, noSpread, noRecoil)
+
 ESP(Corner)
 
 HP(Bar+Text) 
@@ -25,6 +27,7 @@ Use Garry's mod without Beta-versions. Drop BOT4CheatMenu.lua to Steam\steamapps
 
 ![20250615205141_1](https://github.com/user-attachments/assets/d0fed89f-be1d-4f7f-aed0-d87d92be22e8)
 
-![20250615205154_1](https://github.com/user-attachments/assets/0e04e487-c496-4ac5-8d81-509cf109cd66)
+![20250619211726_1](https://github.com/user-attachments/assets/d7fcfe78-810b-4367-8d3a-645aa01babf7)
+
 
 
